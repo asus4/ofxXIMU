@@ -1,0 +1,13 @@
+# osx
+.DS_Store
+*.app
+
+# xcode4
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/default.*
+**/*.xcodeproj/*
+!**/*.xcodeproj/project.pbxproj
+!**/*.xcodeproj/default.*
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
